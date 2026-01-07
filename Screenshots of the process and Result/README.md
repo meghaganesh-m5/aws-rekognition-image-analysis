@@ -6,6 +6,11 @@ Adding a image to be analysied has a object into Bucket Created
 
 <img width="1423" height="804" alt="Screenshot 2026-01-07 152049" src="https://github.com/user-attachments/assets/32cc941a-59e4-49ff-837a-e7b5cd27d0e1" />
 
+the image given to analysis
+
+![street_garbage](https://github.com/user-attachments/assets/867fef90-8d1c-485f-ad46-6784cb963445)
+
+
 Results
 
 <img width="1393" height="851" alt="Screenshot 2026-01-07 151713" src="https://github.com/user-attachments/assets/94fe2344-b98b-4b45-895a-41d780c85ef0" />

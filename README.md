@@ -28,4 +28,4 @@ This project demonstrates how to use Amazon Rekognition to analyze images stored
 Amazon Rekognition is currently supported in ap-south-1 (Mumbai). The project was configured accordingly.
 
 ## Author
-Megha Dinesh
+Megha Ginesh
